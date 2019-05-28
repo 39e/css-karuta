@@ -1,0 +1,24 @@
+{
+  "name": "karuta",
+  "version": "0.0.0",
+  "description": "CSS Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ress997/css-karuta.git"
+  },
+  "author": "Ress",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ress997/css-karuta/issues"
+  },
+  "homepage": "https://github.com/ress997/css-karuta#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
+  }
+}
